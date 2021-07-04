@@ -4,6 +4,6 @@
 
 <p>🇧🇷&nbsp; Living in Salvador, Brazil</p>
 
-<p>:uk: Level<strong> C1</strong> in English</p>
+<p>:uk: Level<strong> Advanced</strong> in English</p>
 
-<p>:fr: Level<strong> A2</strong> in French</p>
+<p>:fr: Level <strong>Elementary</strong> in French</p>
