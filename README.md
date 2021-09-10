@@ -4,6 +4,6 @@
 
 <p>🇧🇷&nbsp; Living in Salvador, Brazil</p>
 
-<p>:uk: Level<strong> Advanced</strong> in English</p>
+<p>:uk: Fluent in English</p>
 
 <p>:point_right: https://www.linkedin.com/in/bvdev/ </p>
