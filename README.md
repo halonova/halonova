@@ -6,4 +6,4 @@
 
 <p>:uk: Level<strong> Advanced</strong> in English</p>
 
-<p>:fr: Level <strong>Elementary</strong> in French</p>
+<p>:point_right: https://www.linkedin.com/in/bvdev/ </p>
