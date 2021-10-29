@@ -2,7 +2,7 @@
 
 <p>📌&nbsp; Learning Java</p>
 
-<p>🇧🇷&nbsp; Living in Salvador, Brazil</p>
+<p>🇧🇷&nbsp; Living in Fortaleza, Ceará</p>
 
 <p>:uk: Fluent in English</p>
 
